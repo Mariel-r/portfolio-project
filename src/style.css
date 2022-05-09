@@ -5,6 +5,11 @@ body {
 .hero {
   background: #596e79;
   text-align: center;
+  padding: 160px 20px;
+}
+
+.botton {
+  background-color: #dfd3c3;
 }
 
 .nav {
