@@ -1,11 +1,28 @@
+body {
+  background: #c7b198;
+}
+
+.hero {
+  background: #596e79;
+  text-align: center;
+}
+
+.nav {
+  background-color: #c7b198;
+}
+
 h1 {
   color: beige;
   font-family: "Playfair Display", serif;
+  font-size: 96px;
   font-weight: bold;
+  padding-top: 80px;
 }
 
-p {
+h2 {
   color: aliceblue;
   font-family: "Poppins", sans-serif;
   font-weight: normal;
+  font-size: 20px;
+  padding-bottom: 80px;
 }
