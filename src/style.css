@@ -157,6 +157,17 @@ footer .email-link {
   font-size: 24px;
   font-family: "Poppins", sans-serif;
 }
+.content-container {
+  background-color: #596e79;
+}
+.form {
+  background-color: #dfd3c3;
+}
+
+.contact-link {
+  text-decoration: none;
+  color: #dfd3c3;
+}
 
 footer .email-link:hover {
   color: #596e79;
